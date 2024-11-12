@@ -1,0 +1,6 @@
+.message-list {
+    width: 100%;
+    box-sizing: border-box; /* Garante que padding e bordas sejam incluídos no cálculo da largura */
+    padding: 10px; /* Adicione espaçamento interno, se necessário */
+    background-color: #f0f0f0;
+}
